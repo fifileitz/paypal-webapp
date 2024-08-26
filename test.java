@@ -3,3 +3,4 @@ Testing by QA team
   running unit testing
 functional testing
 functional testing development
+  stage testing
