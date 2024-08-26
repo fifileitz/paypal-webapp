@@ -1,2 +1,3 @@
-Testing apps berofe deployments
+Testing by QA team
+  Testing apps berofe deployments
   running unit testing
